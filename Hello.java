@@ -7,5 +7,6 @@ public class Hello{
 		System.oyt.println("Hello World!");
 		System.oyt.println("Hello World!");
 		System.oyt.println("Hello World! pull");
+		System.oyt.println("Hello World! pull 张书豪");
 	}
 }
